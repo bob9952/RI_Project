@@ -5,3 +5,7 @@ numpy
 pillow
 fs
 opencv-python
+pandas
+matplotlib
+scikit-learn
+pathlib

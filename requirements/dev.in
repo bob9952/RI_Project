@@ -1,0 +1,7 @@
+-c prod.txt
+torch
+torchvision
+numpy
+pillow
+fs
+opencv-python

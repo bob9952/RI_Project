@@ -1,0 +1,8 @@
+name: ri_project
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - cudatoolkit=11.2
+  - cudnn=8.1.0
+prefix: D:\Anaconda\envs\ri_project

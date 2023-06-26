@@ -8,3 +8,6 @@ pandas
 matplotlib
 scikit-learn
 pathlib
+tqdm
+imutils
+split-folders
